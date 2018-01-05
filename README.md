@@ -1,6 +1,6 @@
 # Machine learning
 
 ## Collaborative filtering
-# Gradient descent
+### Gradient descent
 
 ## K-means 
